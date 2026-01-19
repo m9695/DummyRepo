@@ -1,3 +1,4 @@
+// Edit made by Mokut_240240082
 //Lab01 Java file
 // Sample Java file
 void testMethod1()
@@ -21,3 +22,4 @@ void main()
     testMethod1();
     testMethod2();
 }
+
